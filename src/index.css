@@ -1,0 +1,13 @@
+@import "tailwindcss";
+.picture{
+  background-image: url("assets/Group\ 20473.svg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.leaf{
+  background-image: url("assets/листики.svg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
