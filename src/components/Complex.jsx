@@ -17,7 +17,7 @@ const Complex = () => {
             </p>
 
 
-            <div className='leaf'>
+            <div className='leaf pb-40'>
                 <div className='flex gap-12 pl-32 '>
                     <div className='flex-col shadow-2xl flex bg-[#fffff] rounded-[25px] w-[257px] h-[135px]'>
 

@@ -20,22 +20,20 @@ const Step = () => {
             </div>
         </div>
 
-        <div className='bg-[#D9FADD] mt-12'>
-            <h3 className='text-[#495E4C] text-[35px] font-semibold ml-32 pt-14 '>Оставьте заявку и мы с вами свяжемся </h3>
-            <div className='pb-14'>
-            <button className='mt-8 ml-32 mr-7 bg-[#FFFFFF] rounded-[15px] pt-5 pl-5 pb-5 pr-48 drop-shadow-xl'>
-                <p className='text-[#7CA381B2] text-[14px]'>Ваше имя</p>
-            </button>
-
-            <button className='mt-8 mr-16 bg-[#FFFFFF] rounded-[15px] pt-5 pl-5 pb-5 pr-48 drop-shadow-xl'>
-                <p className='text-[#7CA381B2] text-[14px]'>Номер телефона</p>
-            </button>
-
-            <button className='mt-8 bg-[#7CA381B2] rounded-[15px] pt-4 pl-12 pb-4 pr-12 drop-shadow-xl'>
-                <p className='text-[#FFFFFF] font-bold text-[15px]'>ОТПРАВИТЬ</p>
-            </button>
+<div className='bg-[#D9FADD] Fen '>
+                <p className='text-[#495E4C] text-[35px] font-semibold ml-32 pt-14 mb-8'>Оставьте заявку и мы с вами свяжемся </p>
+                <div className='pb-15'>
+                    <button className='ml-32 pt-5 pl-5 pb-5 pr-52 bg-[#FFFFFF] rounded-2xl drop-shadow-xl'>
+                        <p className='text-[#7CA381B2] opacity-70 text-[14px]'>Ваше Имя</p>
+                        </button>
+                    <button className='ml-7 pt-5 pl-5 pb-5 pr-40 bg-[#FFFFFF] rounded-2xl drop-shadow-xl'>
+                        <p className='text-[#7CA381B2] opacity-70 text-[14px]'>Номер телефона</p>
+                    </button>
+                    <button className='ml-7 pt-5 pl-13 pb-4.5 pr-13 bg-[#9CD3A3] rounded-2xl drop-shadow-xl'>
+                        <p className='text-[#FFFFFF] font-bold text-[15px]'>ОТПРАВИТЬ</p>
+                    </button>
+                </div>
             </div>
-        </div>
         </div>
     ) 
 }

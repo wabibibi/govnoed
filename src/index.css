@@ -12,9 +12,8 @@
   background-repeat: no-repeat;
 }
 
-.Fen{
-  background-image: url("assets/Frame.svg");
-  background-size: cover;
-  background-position: right;
-  background-repeat: no-repeat;
+.Fen  {
+    background-image: url('assets/Frame.svg');
+    background-repeat: no-repeat;
+    background-position: right;
 }
